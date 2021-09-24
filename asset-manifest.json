@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sidebar/static/css/main.a4a20492.chunk.css",
+    "main.js": "/sidebar/static/js/main.7b738ba1.chunk.js",
+    "main.js.map": "/sidebar/static/js/main.7b738ba1.chunk.js.map",
+    "runtime-main.js": "/sidebar/static/js/runtime-main.964fa3a0.js",
+    "runtime-main.js.map": "/sidebar/static/js/runtime-main.964fa3a0.js.map",
+    "static/js/2.5816192f.chunk.js": "/sidebar/static/js/2.5816192f.chunk.js",
+    "static/js/2.5816192f.chunk.js.map": "/sidebar/static/js/2.5816192f.chunk.js.map",
+    "static/js/3.cc828663.chunk.js": "/sidebar/static/js/3.cc828663.chunk.js",
+    "static/js/3.cc828663.chunk.js.map": "/sidebar/static/js/3.cc828663.chunk.js.map",
+    "index.html": "/sidebar/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/sidebar/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.5816192f.chunk.js.LICENSE.txt": "/sidebar/static/js/2.5816192f.chunk.js.LICENSE.txt",
+    "static/media/advertise.f052aa7c.jpg": "/sidebar/static/media/advertise.f052aa7c.jpg",
+    "static/media/trainer1.a1a05690.jpg": "/sidebar/static/media/trainer1.a1a05690.jpg",
+    "static/media/userImage2.339e5a6d.jpg": "/sidebar/static/media/userImage2.339e5a6d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.964fa3a0.js",
+    "static/js/2.5816192f.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.7b738ba1.chunk.js"
+  ]
+}
